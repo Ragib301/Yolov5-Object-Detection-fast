@@ -36,7 +36,7 @@ def detect(frame):
 
 
 if __name__ == "__main__":
-    capture = cv2.VideoCapture(r'Videos\test2.mp4')
+    capture = cv2.VideoCapture(0)
     while True:
         ret, fm = capture.read()
         if ret:
