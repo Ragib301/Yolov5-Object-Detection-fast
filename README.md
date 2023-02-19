@@ -1,1 +1,1 @@
-# Yolov5-Object-Detetion-fast
+# Yolov5 Object Detection Fast
